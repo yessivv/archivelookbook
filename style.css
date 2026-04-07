@@ -45,7 +45,7 @@ h2 {
 font-weight: 500;
 font-style: normal;
   font-size: clamp(16px, 3vw, 24px);
-  letter-spacing: -2px;
+  letter-spacing: -1px;
   color: #52FFA0;
   text-align: left;
   padding: 40px 0 0 40px;
